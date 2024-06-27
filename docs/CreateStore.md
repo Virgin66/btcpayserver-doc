@@ -14,7 +14,8 @@ To **create a store**, make sure you're logged in into your account,
 To create more stores on your instance, you can follow the same guide as described above. 
  
 
-![BTCPayRegister2](./img/BTCPayGettingStartedStoreRegistration1.png)
+![BTCPayRegister2](./img/BTCPayGettingStart
+edStoreRegistration1.png)
 
 ## Customizing your BTCPay Store Settings
 
